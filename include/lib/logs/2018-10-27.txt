@@ -1,0 +1,7 @@
+Time : 17:16:17
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : DELETE FROM iprs_proposal WHERE id = :id
+
+Time : 17:15:01
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : DELETE FROM iprs_proposal WHERE id = :id

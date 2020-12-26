@@ -1,0 +1,23 @@
+Time : 19:19:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '` as created_date, b.`id` as faculty_id, b.`name` as faculty_name FROM iprs_depa' at line 1
+Raw SQL : SELECT a.`id` as id, a.`faculty` as faculty, a.`name` as name, a.`slug` as slug, a.`created_by as created_by, a.`created_date` as created_date, b.`id` as faculty_id, b.`name` as faculty_name FROM iprs_department as a INNER JOIN iprs_faculty as b ON faculty = faculty_id  ORDER BY a.`id` ASC
+
+Time : 19:19:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '` as created_date, b.`id` as faculty_id, b.`name` as faculty_name FROM iprs_depa' at line 1
+Raw SQL : SELECT a.`id` as id, a.`faculty` as faculty, a.`name` as name, a.`slug` as slug, a.`created_by as created_by, a.`created_date` as created_date, b.`id` as faculty_id, b.`name` as faculty_name FROM iprs_department as a INNER JOIN iprs_faculty as b ON a.`faculty` = b.`id`  ORDER BY a.`id` ASC
+
+Time : 19:18:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`, b.`id` as faculty_id, b.`name` as faculty_name FROM iprs_department as a INNE' at line 1
+Raw SQL : SELECT a.`id`, a.`faculty`, a.`name`, a.`slug`, a.`created_by, a.`created_date`, b.`id` as faculty_id, b.`name` as faculty_name FROM iprs_department as a INNER JOIN iprs_faculty as b ON a.`faculty` = b.`id`  ORDER BY a.`id` ASC
+
+Time : 19:16:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`, b.`id` as faculty_id, b.`name` as faculty_name FROM iprs_department a INNER J' at line 1
+Raw SQL : SELECT a.`id`, a.`faculty`, a.`name`, a.`slug`, a.`created_by, a.`created_date`, b.`id` as faculty_id, b.`name` as faculty_name FROM iprs_department a INNER JOIN iprs_faculty b  WHERE a.`faculty` = faculty_id  ORDER BY a.`id` ASC
+
+Time : 19:13:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`, b.`id` as faculty_id, b.`name` as faculty_name FROM iprs_department a INNER J' at line 1
+Raw SQL : SELECT a.`id`, a.`faculty`, a.`name`, a.`slug`, a.`created_by, a.`created_date`, b.`id` as faculty_id, b.`name` as faculty_name FROM iprs_department a INNER JOIN iprs_faculty b  WHERE a.`faculty` = b.`id`  ORDER BY a.`id` ASC
+
+Time : 17:57:14
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : INSERT INTO iprs_event_type VALUES (:id, :name, :active, :created_by, :created_date, :updated_by, :updated_date, :revision)

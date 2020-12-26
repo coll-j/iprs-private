@@ -1,0 +1,18 @@
+Time : 08:38:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.title' in 'field list'
+Raw SQL : SELECT a.`id` as announcement_id, a.`username` as creator, a.`input_date` as input_date, a.`until_date` as until_date, a.`title` as title, a.`text` as text, a.`active` as active, a.`updated_by` as updated_by, a.`updated_date` as updated_date, a.`revision` as revision, b.`name` as name FROM iprs_announcement a INNER JOIN iprs_user b ON a.`username` = b.`username`  WHERE a.`active` = 'yes'
+
+Time : 08:38:08
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.title' in 'field list'
+Raw SQL : SELECT a.`id` as announcement_id, a.`username` as creator, a.`input_date` as input_date, a.`until_date` as until_date, a.`title` as title, a.`text` as text, a.`active` as active, a.`updated_by` as updated_by, a.`updated_date` as updated_date, a.`revision` as revision, b.`name` as name FROM iprs_announcement a INNER JOIN iprs_user b ON a.`username` = b.`username`  WHERE a.`active` = 'yes'
+
+Time : 08:37:58
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.title' in 'field list'
+Raw SQL : SELECT a.`id` as announcement_id, a.`username` as creator, a.`input_date` as input_date, a.`until_date` as until_date, a.`title` as title, a.`text` as text, a.`active` as active, a.`updated_by` as updated_by, a.`updated_date` as updated_date, a.`revision` as revision, b.`name` as name FROM iprs_announcement a INNER JOIN iprs_user b ON a.`username` = b.`username`  WHERE a.`active` = 'yes'
+
+Time : 07:50:38
+SQLSTATE[HY000] [1045] Access denied for user 'iprsbemi_iprs'@'localhost' (using password: YES)
+
+Time : 07:49:14
+SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+

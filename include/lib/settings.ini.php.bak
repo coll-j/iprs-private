@@ -1,0 +1,6 @@
+<?php return; ?>
+[SQL]
+host     = localhost
+user     = iprsbemi_iprs
+password = @Varius298641
+dbname   = iprsbemi_iprs

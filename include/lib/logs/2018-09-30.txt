@@ -1,0 +1,7 @@
+Time : 21:48:17
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'slug' in 'field list'
+Raw SQL : INSERT INTO iprs_log (id, ip, username, slug, logdate, activity) VALUES (:id, :ip, :username, :slug, :logdate, :activity)
+
+Time : 21:45:44
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'slug' in 'field list'
+Raw SQL : INSERT INTO iprs_log (id, ip, username, slug, logdate, activity) VALUES (:id, :ip, :username, :slug, :logdate, :activity)

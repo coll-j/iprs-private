@@ -1,0 +1,70 @@
+[22-Nov-2018 23:59:35 Europe/Amsterdam] PHP Warning:  syntax error, unexpected END_OF_LINE, expecting '^' or '|' or '&' or ')' in settings.ini.php on line 6
+ in /home2/iprsbemits/public_html/iprs/include/lib/db.class.php on line 55
+[23-Nov-2018 00:01:05 Europe/Amsterdam] PHP Warning:  syntax error, unexpected END_OF_LINE, expecting '^' or '|' or '&' or ')' in settings.ini.php on line 6
+ in /home2/iprsbemits/public_html/iprs/include/lib/db.class.php on line 55
+[23-Nov-2018 00:02:17 Europe/Amsterdam] PHP Warning:  syntax error, unexpected END_OF_LINE, expecting '^' or '|' or '&' or ')' in settings.ini.php on line 6
+ in /home2/iprsbemits/public_html/iprs/include/lib/db.class.php on line 55
+[23-Nov-2018 00:02:19 Europe/Amsterdam] PHP Warning:  syntax error, unexpected END_OF_LINE, expecting '^' or '|' or '&' or ')' in settings.ini.php on line 6
+ in /home2/iprsbemits/public_html/iprs/include/lib/db.class.php on line 55
+[23-Nov-2018 00:02:48 Europe/Amsterdam] PHP Warning:  syntax error, unexpected END_OF_LINE, expecting '^' or '|' or '&' or ')' in settings.ini.php on line 6
+ in /home2/iprsbemits/public_html/iprs/include/lib/db.class.php on line 55
+[23-Nov-2018 00:02:59 Europe/Amsterdam] PHP Warning:  syntax error, unexpected '=' in settings.ini.php on line 5
+ in /home2/iprsbemits/public_html/iprs/include/lib/db.class.php on line 55
+[23-Nov-2018 00:03:01 Europe/Amsterdam] PHP Warning:  syntax error, unexpected '=' in settings.ini.php on line 5
+ in /home2/iprsbemits/public_html/iprs/include/lib/db.class.php on line 55
+[23-Nov-2018 00:03:02 Europe/Amsterdam] PHP Warning:  syntax error, unexpected '=' in settings.ini.php on line 5
+ in /home2/iprsbemits/public_html/iprs/include/lib/db.class.php on line 55
+[23-Nov-2018 00:03:30 Europe/Amsterdam] PHP Warning:  syntax error, unexpected END_OF_LINE, expecting '^' or '|' or '&' or ')' in settings.ini.php on line 6
+ in /home2/iprsbemits/public_html/iprs/include/lib/db.class.php on line 55
+[23-Nov-2018 00:03:31 Europe/Amsterdam] PHP Warning:  syntax error, unexpected END_OF_LINE, expecting '^' or '|' or '&' or ')' in settings.ini.php on line 6
+ in /home2/iprsbemits/public_html/iprs/include/lib/db.class.php on line 55
+[23-Nov-2018 00:03:47 Europe/Amsterdam] PHP Warning:  syntax error, unexpected END_OF_LINE, expecting '^' or '|' or '&' or ')' in settings.ini.php on line 6
+ in /home2/iprsbemits/public_html/iprs/include/lib/db.class.php on line 55
+[23-Nov-2018 00:03:48 Europe/Amsterdam] PHP Warning:  syntax error, unexpected END_OF_LINE, expecting '^' or '|' or '&' or ')' in settings.ini.php on line 6
+ in /home2/iprsbemits/public_html/iprs/include/lib/db.class.php on line 55
+[23-Nov-2018 00:03:49 Europe/Amsterdam] PHP Warning:  syntax error, unexpected END_OF_LINE, expecting '^' or '|' or '&' or ')' in settings.ini.php on line 6
+ in /home2/iprsbemits/public_html/iprs/include/lib/db.class.php on line 55
+[23-Nov-2018 00:04:37 Europe/Amsterdam] PHP Warning:  syntax error, unexpected END_OF_LINE, expecting '^' or '|' or '&' or ')' in settings.ini.php on line 6
+ in /home2/iprsbemits/public_html/iprs/include/lib/db.class.php on line 55
+[23-Nov-2018 00:04:38 Europe/Amsterdam] PHP Warning:  syntax error, unexpected END_OF_LINE, expecting '^' or '|' or '&' or ')' in settings.ini.php on line 6
+ in /home2/iprsbemits/public_html/iprs/include/lib/db.class.php on line 55
+[23-Nov-2018 00:04:39 Europe/Amsterdam] PHP Warning:  syntax error, unexpected END_OF_LINE, expecting '^' or '|' or '&' or ')' in settings.ini.php on line 6
+ in /home2/iprsbemits/public_html/iprs/include/lib/db.class.php on line 55
+[11-Jun-2020 23:54:04 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72/sess_2efd85f4cef97f737b53d0b0c06f6ac6, O_RDWR) failed: Permission denied (13) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[11-Jun-2020 23:54:04 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[12-Jun-2020 00:06:24 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72/sess_9bc3485f432342e4f1491c2f8a305850, O_RDWR) failed: Permission denied (13) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[12-Jun-2020 00:06:24 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[12-Jun-2020 02:40:28 Europe/Amsterdam] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72/sess_2efd85f4cef97f737b53d0b0c06f6ac6, O_RDWR) failed: Permission denied (13) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[12-Jun-2020 02:40:28 Europe/Amsterdam] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[12-Jun-2020 02:52:41 Europe/Amsterdam] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72/sess_9bc3485f432342e4f1491c2f8a305850, O_RDWR) failed: Permission denied (13) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[12-Jun-2020 02:52:41 Europe/Amsterdam] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[12-Jun-2020 02:21:55 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72/sess_2efd85f4cef97f737b53d0b0c06f6ac6, O_RDWR) failed: Permission denied (13) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[12-Jun-2020 02:21:55 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[12-Jun-2020 02:34:02 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72/sess_9bc3485f432342e4f1491c2f8a305850, O_RDWR) failed: Permission denied (13) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[12-Jun-2020 02:34:02 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[04-Jul-2020 22:08:15 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72/sess_f92366151be3b78a0e43805374131da5, O_RDWR) failed: Permission denied (13) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[04-Jul-2020 22:08:15 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[05-Jul-2020 00:22:49 Europe/Amsterdam] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72/sess_f92366151be3b78a0e43805374131da5, O_RDWR) failed: Permission denied (13) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[05-Jul-2020 00:22:49 Europe/Amsterdam] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[04-Jul-2020 22:44:32 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72/sess_f92366151be3b78a0e43805374131da5, O_RDWR) failed: Permission denied (13) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[04-Jul-2020 22:44:32 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[26-Jul-2020 11:08:18 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72/sess_3e3c5f56a0c32e4fef2543d35ff6a059, O_RDWR) failed: Permission denied (13) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[26-Jul-2020 11:08:18 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[26-Jul-2020 13:08:19 Europe/Amsterdam] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72/sess_3e3c5f56a0c32e4fef2543d35ff6a059, O_RDWR) failed: Permission denied (13) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[26-Jul-2020 13:08:19 Europe/Amsterdam] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[15-Aug-2020 00:47:50 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72/sess_ddf062520c34e9b1a02d48a5be34a5c7, O_RDWR) failed: Permission denied (13) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[15-Aug-2020 00:47:50 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[15-Aug-2020 02:47:50 Europe/Amsterdam] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72/sess_ddf062520c34e9b1a02d48a5be34a5c7, O_RDWR) failed: Permission denied (13) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[15-Aug-2020 02:47:50 Europe/Amsterdam] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[20-Sep-2020 00:36:48 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72/sess_b5e51ff699b0b30445e9bb0d8af69a7f, O_RDWR) failed: Permission denied (13) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[20-Sep-2020 00:36:48 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[20-Sep-2020 02:38:03 Europe/Amsterdam] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72/sess_b5e51ff699b0b30445e9bb0d8af69a7f, O_RDWR) failed: Permission denied (13) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[20-Sep-2020 02:38:03 Europe/Amsterdam] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[20-Sep-2020 03:38:15 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72/sess_b5e51ff699b0b30445e9bb0d8af69a7f, O_RDWR) failed: Permission denied (13) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[20-Sep-2020 03:38:15 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[21-Oct-2020 17:24:31 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72/sess_6ff63f356e7d09d699637383ff7a52d4, O_RDWR) failed: Permission denied (13) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[21-Oct-2020 17:24:31 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[21-Oct-2020 19:33:35 Europe/Amsterdam] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72/sess_6ff63f356e7d09d699637383ff7a52d4, O_RDWR) failed: Permission denied (13) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[21-Oct-2020 19:33:35 Europe/Amsterdam] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[21-Oct-2020 17:44:29 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72/sess_6ff63f356e7d09d699637383ff7a52d4, O_RDWR) failed: Permission denied (13) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1
+[21-Oct-2020 17:44:29 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in /home2/iprsbemits/public_html/iprs/include/functions.php on line 1

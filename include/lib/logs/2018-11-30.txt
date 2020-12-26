@@ -1,0 +1,23 @@
+Time : 00:20:18
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : UPDATE iprs_user SET password = :password, salt = :salt, updated_by = :updated_by, updated_date = :updated_date, revision = revision + 1 WHERE id = :id
+
+Time : 00:19:16
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : UPDATE iprs_user SET password = :password, salt = :salt, updated_by = :updated_by, updated_date = :updated_date, revision = revision + 1 WHERE id = :id
+
+Time : 00:16:46
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : UPDATE iprs_user SET password = :password, salt = :salt, updated_by = :updated_by, updated_date = :updated_date, revision = revision + 1 WHERE id = :id
+
+Time : 00:16:08
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : UPDATE iprs_user SET password = :password, salt = :salt, updated_by = :updated_by, updated_date = :updated_date, revision = revision + 1 WHERE id = :id
+
+Time : 00:11:59
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : UPDATE iprs_user SET name = :name, email = :email, level = :level, active = :active, form = :form, updated_by = :updated_by, updated_date = :updated_date, revision = revision + 1 WHERE id = :id
+
+Time : 00:11:03
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : UPDATE iprs_user SET name = :name, email = :email, level = :level, active = :active, form = :form, updated_by = :updated_by, updated_date = :updated_date, revision = revision + 1 WHERE id = :id

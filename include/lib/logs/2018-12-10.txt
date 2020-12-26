@@ -1,0 +1,19 @@
+Time : 13:15:38
+SQLSTATE[HY000]: General error: 2031 
+Raw SQL : DELETE FROM iprs_user WHERE id = :id
+
+Time : 13:09:57
+SQLSTATE[HY000]: General error: 2031 
+Raw SQL : DELETE FROM iprs_user WHERE id = :id
+
+Time : 13:06:25
+SQLSTATE[HY000]: General error: 2031 
+Raw SQL : DELETE FROM iprs_user WHERE id = :id
+
+Time : 13:04:35
+SQLSTATE[HY000]: General error: 2031 
+Raw SQL : DELETE FROM iprs_user WHERE id = :id
+
+Time : 13:02:50
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : INSERT INTO iprs_contact VALUES (:id, :address, :phone, :website, :instagram, :lineid, :facebook, :twitter, :created_by, :created_date, :updated_by, :updated_date, :revision)

@@ -1,0 +1,19 @@
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	
+    RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteCond %{REQUEST_FILENAME}.php -f
+    RewriteRule ^(.*)$ $1.php
+
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^proposal-edit/([0-9a-zA-Z]+) proposal-edit.php?id=$1
+    RewriteRule ^database-edit/([0-9a-zA-Z]+) database-edit.php?id=$1
+    RewriteRule ^user-edit/([0-9a-zA-Z]+) user-edit.php?id=$1
+    RewriteRule ^announcement-edit/([0-9a-zA-Z]+) announcement-edit.php?id=$1
+    RewriteRule ^faq-edit/([0-9a-zA-Z]+) faq-edit.php?id=$1
+    RewriteRule ^contact-edit/([0-9a-zA-Z]+) contact-edit.php?id=$1
+    RewriteRule ^changelog-edit/([0-9a-zA-Z]+) changelog-edit.php?id=$1
+
+    ErrorDocument 404 http://arek.its.ac.id/iprs/404
+    ErrorDocument 500 http://arek.its.ac.id/iprs/500
+</IfModule>

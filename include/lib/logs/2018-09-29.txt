@@ -1,0 +1,67 @@
+Time : 20:32:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?id, ?ip, ?username, ?logdate, ?activity)' at line 1
+Raw SQL : INSERT INTO iprs_log (id, ip, username, logdate, activity) VALUES (?id, ?ip, ?username, ?logdate, ?activity)
+
+Time : 20:32:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?id, ?ip, ?username, ?logdate, ?activity)' at line 1
+Raw SQL : INSERT INTO iprs_log (id, ip, username, logdate, activity) VALUES (?id, ?ip, ?username, ?logdate, ?activity)
+
+Time : 20:32:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?id, ?ip, ?username, ?logdate, ?activity)' at line 1
+Raw SQL : INSERT INTO iprs_log (id, ip, username, logdate, activity) VALUES (?id, ?ip, ?username, ?logdate, ?activity)
+
+Time : 20:31:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?id, ?ip, ?username, ?logdate, ?activity)' at line 1
+Raw SQL : INSERT INTO iprs_log (id, ip, username, logdate, activity) VALUES (?id, ?ip, ?username, ?logdate, ?activity)
+
+Time : 20:30:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?id, ?ip, ?username, ?logdate, ?activity)' at line 1
+Raw SQL : INSERT INTO iprs_log (id, ip, username, logdate, activity) VALUES (?id, ?ip, ?username, ?logdate, ?activity)
+
+Time : 20:27:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?id, ?ip, ?username, NOW(), ?activity)' at line 1
+Raw SQL : INSERT INTO `iprs_log`(`id`, `ip`, `username`, `logdate`, `activity`) VALUES (?id, ?ip, ?username, NOW(), ?activity)
+
+Time : 20:27:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?id, ?ip, ?username, NOW(), ?activity)' at line 1
+Raw SQL : INSERT INTO `iprs_log`(`id`, `ip`, `username`, `logdate`, `activity`) VALUES (?id, ?ip, ?username, NOW(), ?activity)
+
+Time : 20:27:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?id, ?ip, ?username, NOW(), ?activity)' at line 1
+Raw SQL : INSERT INTO `iprs_log`(`id`, `ip`, `username`, `logdate`, `activity`) VALUES (?id, ?ip, ?username, NOW(), ?activity)
+
+Time : 20:25:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?ip, ?username, NOW(), ?activity)' at line 1
+Raw SQL : INSERT INTO `iprs_log`(`id`, `ip`, `username`, `logdate`, `activity`) VALUES ('', ?ip, ?username, NOW(), ?activity)
+
+Time : 19:49:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'login.)' at line 1
+Raw SQL : INSERT INTO `iprs_log`(`id`, `username`, `logdate`, `activity`) VALUES ('', admin, NOW(), Successfully login.)
+
+Time : 19:48:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?id, ?username, NOW(), ?activity)' at line 1
+Raw SQL : INSERT INTO `iprs_log`(`id`, `username`, `logdate`, `activity`) VALUES (?id, ?username, NOW(), ?activity)
+
+Time : 19:43:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?id, ?username, NOW(), ?activity)' at line 1
+Raw SQL : INSERT INTO iprs_log (id, username, logdate, activity) VALUES (?id, ?username, NOW(), ?activity)
+
+Time : 19:40:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?id, ?username, NOW(), ?activity)' at line 1
+Raw SQL : INSERT INTO iprs_log (id, username, `date`, activity) VALUES (?id, ?username, NOW(), ?activity)
+
+Time : 19:39:40
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : INSERT INTO iprs_log (id, username, `date`, activity) VALUES (:id, :username, NOW(), :activity)
+
+Time : 19:37:22
+SQLSTATE[42S22]: Column not found: 1054 Unknown column '?' in 'field list'
+Raw SQL : INSERT INTO iprs_contact (id, address, phone, website, instagram, `line`, facebook, twitter, created_by, created_date, updated_by, updated_date, revision) VALUES (:id, :address, :phone, :website, :instagram, `:line`, :facebook, :twitter, :created_by, NOW(), :updated_by, NOW(), :revision)
+
+Time : 19:35:22
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : INSERT INTO iprs_user (id, username, name, password, salt, email, level, active, photo, form, created_by, created_date, updated_by, updated_date, revision) VALUES (:id, :username, :name, :password, :salt, :email, :level, :active, :photo, :form, :created_by, NOW(), :updated_by, NOW(), :revision)
+
+Time : 19:33:36
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : INSERT INTO iprs_user (id, username, name, password, salt, email, level, active, photo, form, created_by, created_date, updated_by, updated_date, revision) VALUES (:id, :username, :name, :password, :salt, :email, :level, :active, :photo, :form, :created_by, NOW(), :updated_by, NOW(), :revision)

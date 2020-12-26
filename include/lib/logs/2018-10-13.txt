@@ -1,0 +1,11 @@
+Time : 18:15:31
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'iprs.irps_proposal' doesn't exist
+Raw SQL : SELECT * FROM irps_proposal  WHERE username = 'admin'
+
+Time : 13:44:43
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'revision_by' in 'field list'
+Raw SQL : INSERT INTO iprs_proposal (id, username, input_date, event_name, event_type, event_desc, event_time, event_target, event_pic, event_cp, stakeholder1, stakeholder2, stakeholder3, stakeholder4, stakeholder5, relation1, relation2, relation3, relation4, relation5, file_name, file_type, file_size, stats, approved_by, approved_date, revision_by, revision_date, revision) VALUES (:id, :username, :input_date, :event_name, :event_type, :event_desc, :event_time, :event_target, :event_pic, :event_cp, :stakeholder1, :stakeholder2, :stakeholder3, :stakeholder4, :stakeholder5, :relation1, :relation2, :relation3, :relation4, :relation5, :file_name, :file_type, :file_size, :stats, :approved_by, :approved_date, :revision_by, :revision_date, :revision)
+
+Time : 13:42:44
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'revision_by' in 'field list'
+Raw SQL : INSERT INTO iprs_proposal (id, username, input_date, event_name, event_type, event_desc, event_time, event_target, event_pic, event_cp, stakeholder1, stakeholder2, stakeholder3, stakeholder4, stakeholder5, relation1, relation2, relation3, relation4, relation5, file_name, file_type, file_size, stats, approved_by, approved_date, revision_by, revision_date, revision) VALUES (:id, :username, :input_date, :event_name, :event_type, :event_desc, :event_time, :event_target, :event_pic, :event_cp, :stakeholder1, :stakeholder2, :stakeholder3, :stakeholder4, :stakeholder5, :relation1, :relation2, :relation3, :relation4, :relation5, :file_name, :file_type, :file_size, :stats, :approved_by, :approved_date, :revision_by, :revision_date, :revision)

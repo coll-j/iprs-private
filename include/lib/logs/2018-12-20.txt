@@ -1,0 +1,11 @@
+Time : 16:23:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DESC' at line 1
+Raw SQL : SELECT * FROM iprs_changelog  WHERE version DESC
+
+Time : 09:47:12
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'value' in 'field list'
+Raw SQL : UPDATE iprs_staff SET value = :value, updated_by = :updated_by, updated_date = :updated_date, revision = revision + 1 WHERE name = :name
+
+Time : 09:42:46
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'value' in 'field list'
+Raw SQL : UPDATE iprs_staff SET value = :value, updated_by = :updated_by, updated_date = :updated_date, revision = revision + 1 WHERE name = :name

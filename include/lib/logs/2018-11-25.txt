@@ -1,0 +1,11 @@
+Time : 15:35:54
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : UPDATE iprs_proposal SET event_name = :event_name, event_type = :event_type, event_desc = :event_desc, event_time = :event_target, event_pic = :event_pic, event_cp = :event_cp, stakeholder1 = :stakeholder1, stakeholder2 = :stakeholder2, stakeholder3 = :stakeholder3, stakeholder4 = :stakeholder4, stakeholder5 = :stakeholder5, relation1 = :relation1, relation2 = :relation2, relation3 = :relation3, relation4 = :relation4, relation5 = :relation5, stats = :stats, approved_by = :approved_by, approved_date = :approved_date, updated_by = :updated_by, updated_date = :updated_date, revision = revision + 1 WHERE id = :id
+
+Time : 15:35:01
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : UPDATE iprs_proposal SET event_name = :event_name, event_type = :event_type, event_desc = :event_desc, event_time = :event_target, event_pic = :event_pic, event_cp = :event_cp, stakeholder1 = :stakeholder1, stakeholder2 = :stakeholder2, stakeholder3 = :stakeholder3, stakeholder4 = :stakeholder4, stakeholder5 = :stakeholder5, relation1 = :relation1, relation2 = :relation2, relation3 = :relation3, relation4 = :relation4, relation5 = :relation5, stats = :stats, approved_by = :approved_by, approved_date = :approved_date, updated_by = :updated_by, updated_date = :updated_date, revision = revision + 1 WHERE id = :id
+
+Time : 15:34:43
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : UPDATE iprs_proposal SET event_name = :event_name, event_type = :event_type, event_desc = :event_desc, event_time = :event_target, event_pic = :event_pic, event_cp = :event_cp, stakeholder1 = :stakeholder1, stakeholder2 = :stakeholder2, stakeholder3 = :stakeholder3, stakeholder4 = :stakeholder4, stakeholder5 = :stakeholder5, relation1 = :relation1, relation2 = :relation2, relation3 = :relation3, relation4 = :relation4, relation5 = :relation5, stats = :stats, approved_by = :approved_by, approved_date = :approved_date, updated_by = :updated_by, updated_date = :updated_date, revision = revision + 1 WHERE id = :id

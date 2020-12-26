@@ -13,7 +13,7 @@
 <?php require_once("include/pages/header_end.php"); ?>
 
 <body class="account-pages">
-
+    <?php echo "<script>console.log(".hash("SHA512", "admin"."c33ced4203835c500014f6971006ee38b74d3406e24b4f3c11d230db9e252647").")</script>"?>
     <!-- Begin page -->
     <div class="accountbg" style="background: url('<?php echo $assets_folder; ?>/images/<?php echo $login_background; ?>');background-size: cover;"></div>
 
