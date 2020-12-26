@@ -2,8 +2,6 @@
     require_once("include/config.php");    
     require_once("include/functions.php");
     require_once("include/auth.php");
-
-    $title = "All Database"
 ?>
 
 <?php require_once("include/pages/header_start.php"); ?>

@@ -12,7 +12,6 @@
         <tr>
             <th>#</th>
             <th>Company</th>
-            <th>Created by</th>
         </tr>
     </thead>
 
@@ -25,10 +24,6 @@
 
                 <td>
                     <?php echo $row['company']; ?>
-                </td>
-                
-                <td>
-                    <?php echo $row['created_by']; ?>
                 </td>
             </tr>
         <?php } ?>
